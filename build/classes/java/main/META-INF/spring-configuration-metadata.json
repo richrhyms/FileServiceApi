@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.richrhyms.fileserviceapi.conf.AppConfigurationProperties",
+      "sourceType": "com.richrhyms.fileserviceapi.conf.AppConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.auth-base-url",
+      "type": "java.lang.String",
+      "sourceType": "com.richrhyms.fileserviceapi.conf.AppConfigurationProperties"
+    },
+    {
+      "name": "app.email-templates-directory",
+      "type": "java.lang.String",
+      "sourceType": "com.richrhyms.fileserviceapi.conf.AppConfigurationProperties"
+    },
+    {
+      "name": "app.file-server-local-base-url",
+      "type": "java.lang.String",
+      "sourceType": "com.richrhyms.fileserviceapi.conf.AppConfigurationProperties"
+    },
+    {
+      "name": "app.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.richrhyms.fileserviceapi.conf.AppConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
